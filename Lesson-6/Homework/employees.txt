@@ -1,0 +1,6 @@
+101, John, manager, $6000
+102, David, Director, $8000
+103, Alice, Marketing, $4000
+104, Joe, Sales manager, $5000
+106, Doe, Data analyst, $7500
+105, Sarah, Call operator, $4000
