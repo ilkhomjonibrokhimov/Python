@@ -1,0 +1,1 @@
+<generator object Bank.save_tasks.<locals>.<genexpr> at 0x102602a80>
